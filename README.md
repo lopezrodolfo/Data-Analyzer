@@ -4,7 +4,7 @@ A Python module for importing, analyzing, and graphing data with linear relation
 
 ## Authors
 
-- Rodolfo Lopez
+Rodolfo Lopez
 
 ## Date
 
