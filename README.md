@@ -2,7 +2,7 @@
 
 A Python module for importing, analyzing, and graphing data with linear relationships.
 
-## Authors
+## Author
 
 Rodolfo Lopez
 
